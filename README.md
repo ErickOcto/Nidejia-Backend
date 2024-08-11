@@ -4,7 +4,7 @@ A project built with the latest tech, powered by Laravel 11 and a Filament admin
 
 ## API Documentation
 
-<p align="center"><a href="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" width="400" alt="Postman Logo"></a></p>
+<p align="center"><a href="https://documenter.getpostman.com/view/29960447/2sA3s3HXAG"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" width="400" alt="Postman Logo"></a></p>
 
 <a href="https://documenter.getpostman.com/view/29960447/2sA3s3HXAG">Postman Documentation Endpoint API</a>
 
